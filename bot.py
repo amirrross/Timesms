@@ -18,7 +18,7 @@ from telegram.error import TelegramError
 CONFIG = {
     "TELEGRAM_BOT_TOKEN": "8652732049:AAGdLKoOE_luXbiTGVXc03pRVPwfdUl4THI",
     "ADMIN_CHAT_ID": 123456789,  # Admin ka Telegram ID
-    "OTP_GROUP_ID": -1001234567890,  # Group ka ID (negative number)
+    "OTP_GROUP_ID": -1003379113224,  # Group ka ID (negative number)
     "API_URL": "http://51.77.216.195/crapi/dgroup/viewstats",
     "API_KEY": "SFBRNEVBcn54c46LfFJ0X1iOjV-DVWBkVnBrZERtYXiImGt1Y3I=",
     "POLL_INTERVAL": 1,  # seconds
